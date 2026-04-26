@@ -1,3 +1,2 @@
 # project-expense-tracker
-- This is a project made for python programming class (DA106).
-- This project was made by Pranay Bhardwaj(25/A07/047) and Ridwik Jain(25/A07/049)
+This is a simple expense tracker web app built with Python and Streamlit. It lets you add, view, and delete expenses, as well as see a breakdown of your spending by category. All data is stored locally in a CSV file. The app was built as a college project by Pranay Bhardwaj(25/A07/047) and Ridwik Jain(25/A07/049) as part of their B.Tech in Computer Science (Data Science & Analytics) at DTU.
